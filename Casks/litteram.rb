@@ -2,8 +2,7 @@ cask "litteram" do
   version "0.9.5"
   sha256 "a1a8fae733c7167346016eb6b90d587ce407d49156001aa6abeed15428c4016a"
 
-  url "https://github.com/Litteram-App/litteram-app.github.io/releases/download/v#{version}/Litteram.zip",
-      verified: "github.com/Litteram-App/litteram-app.github.io/"
+  url "https://github.com/Litteram-App/litteram-app.github.io/releases/download/v#{version}/Litteram.zip"
   name "Litteram"
   desc "Native Markdown editor with live preview"
   homepage "https://litteram-app.github.io/"
