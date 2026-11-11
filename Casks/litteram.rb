@@ -1,6 +1,6 @@
 cask "litteram" do
-  version "0.9.6"
-  sha256 "3c81e44d7a7931ebd4f84daec4e348033a2677f485ed525708f7748bb8a666b9"
+  version "0.9.7"
+  sha256 "a7030b8917be9ad81004a9aed725d8c204bb339a1d60341749f9ce1276eefd7e"
 
   url "https://github.com/Litteram-App/litteram-app.github.io/releases/download/v#{version}/Litteram.zip"
   name "Litteram"
